@@ -11,3 +11,4 @@ A real-time client-server chat application built using Python's `socket` module 
 1. Start the server in the first terminal:
    ```bash
    python server.py
+   python client.py
